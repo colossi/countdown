@@ -1,2 +1,2 @@
 # countdown
-JS and Css Timer in countdown
+js and css Timer in countdown
